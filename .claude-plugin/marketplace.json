@@ -1,0 +1,40 @@
+{
+  "name": "Gilfoyle",
+  "description": "Conductor turns Claude Code into a structured engineering system. Instead of ad-hoc prompting, every task flows through a rigorous **Evaluate-Loop** with specialized agents, quality gates, and automatic recovery. It ships with 16+ agents, 36 skills, a 5-member Board of Directors for architectural decisions, DAG-based parallel execution, and a learning system that improves across projects.",
+  "version": "4.0.0",
+  "owner": {
+    "name": "Ahmed Elhadarey",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "Gilfoyle",
+      "source": {
+        "source": "github",
+        "repo": "Gilfoyle"
+      },
+      "description": "Conductor turns Claude Code into a structured engineering system. Instead of ad-hoc prompting, every task flows through a rigorous **Evaluate-Loop** with specialized agents, quality gates, and automatic recovery. It ships with 16+ agents, 36 skills, a 5-member Board of Directors for architectural decisions, DAG-based parallel execution, and a learning system that improves across projects.",
+      "version": "4.0.0",
+      "author": {
+        "name": "Ahmed Elhadarey",
+        "url": "https://github.com/AhmedElhadarey/Gilfoyle"
+      },
+      "homepage": "https://github.com/AhmedElhadarey/Gilfoyle",
+      "repository": "https://github.com/AhmedElhadarey/Gilfoyle",
+      "license": "MIT",
+      "keywords": [
+        "orchestration",
+        "evaluate-loop",
+        "conductor",
+        "superpowers",
+        "parallel-agents",
+        "board-of-directors",
+        "tdd",
+        "debugging",
+        "planning",
+        "multi-agent"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

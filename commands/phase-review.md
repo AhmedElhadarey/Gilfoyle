@@ -5,7 +5,7 @@ arguments:
   - name: track_id
     description: "Optional track ID to review (defaults to active track)"
     required: false
-user_invocable: true
+user_invocable: false
 deprecated: true
 deprecated_in_favor_of: "/conductor:review"
 ---

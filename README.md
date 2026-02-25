@@ -49,7 +49,8 @@ Built on top of [obra/superpowers](https://github.com/obra/superpowers) v4.3.0.
 ### 1. Install
 
 ```
-claude plugin install Gilfoyle
+claude plugin marketplace add AhmedElhadarey/Gilfoyle
+claude plugin install gilfoyle
 ```
 
 ### 2. Initialize Your Project
